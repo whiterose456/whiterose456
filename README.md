@@ -1,50 +1,74 @@
-# heyy  👋
+```
+██╗    ██╗██╗  ██╗██╗████████╗███████╗██████╗  ██████╗ ███████╗███████╗
+██║    ██║██║  ██║██║╚══██╔══╝██╔════╝██╔══██╗██╔═══██╗██╔════╝██╔════╝
+██║ █╗ ██║███████║██║   ██║   █████╗  ██████╔╝██║   ██║███████╗█████╗  
+██║███╗██║██╔══██║██║   ██║   ██╔══╝  ██╔══██╗██║   ██║╚════██║██╔══╝  
+╚███╔███╔╝██║  ██║██║   ██║   ███████╗██║  ██║╚██████╔╝███████║███████╗
+ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+```
 
-Compsci undergrad. I'm drawn to the parts of tech that actually matter — autonomous systems, defense & intelligence tooling, blockchain infrastructure, and systems programming.
-
----
-
-## What I'm into
-
-- 🤖 **Autonomous AI agents** — building and studying agents that plan, reflect, and execute (currently exploring agentic financial research via [Dexter](https://github.com/whiterose456/dexter))
-- 🛡️ **Defense tech & OSINT** — real-time intelligence tools, geospatial data, open-source surveillance systems
-- 🔗 **Smart contracts & Web3** — Solidity, on-chain logic, decentralized protocols
-- 🦀 **Systems programming** — learning Rust, low-level thinking, performance-first code
-- 📚 **CS fundamentals** — working through AI/ML, compilers, and computer science from the ground up
+> compsci undergrad → smart contract dev → building on-chain stuff that actually matters
 
 ---
 
-## Languages & tools
+### 🛠 stack
 
-`Solidity` `Rust` `TypeScript` `JavaScript` `Python` `HTML/CSS`
-
-`React` `Tailwind CSS` `Node.js` `Git`
-
----
-
-## Things I'm exploring or forking project 
-
-| Area | What I'm studying |
-|------|-------------------|
-| Autonomous agents | Agentic loops, task planning, self-reflection in AI systems |
-| Defense & OSINT | Real-time news scraping, geospatial mapping, open-source intelligence |
-| AI/ML engineering | LLMs, deep learning, the math underneath it all |
-| Blockchain | Smart contract design, Ethereum, on-chain systems |
-| Reverse engineering | Hex editors, binary analysis, low-level tooling |
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## My own projects
+### 📡 current status
 
-**🌍 OSINT World News** — real-time global news scraper with geospatial visualization, built with Tailwind + Leaflet
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujolaras-anto-575120279/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/whiterose456)
+```
+🔨 building   → awesome-resource curated lists + OSINT tooling
+📖 studying   → Data Structures, Algorithms, Smart Contract security
+🔬 exploring  → DeFi protocol internals, Rust for EVM tooling
+📍 based in   → Indonesia 🇮🇩
+```
 
 ---
 
-*Building toward the intersection of AI, defense systems, and decentralized infrastructure.*
+### 🧠 about
+
+- Smart contract dev in the making — Solidity is my primary language
+- CS undergrad grinding algorithms, data structures, and systems programming in C
+- Interested in the intersection of **cryptography**, **DeFi**, and **on-chain infrastructure**
+- Building curated `awesome-*` lists for the community
+- OSINT tooling for real-time global news ([Osint-world-news-](https://github.com/whiterose456/Osint-world-news-))
+- Reverse engineering hobby: [ImHex](https://github.com/whiterose456/ImHex) user
+
+---
+
+### 📌 pinned interests
+
+| area | what i care about |
+|------|-----------------|
+| smart contracts | security, gas optimization, auditing |
+| systems | C / Rust, memory, low-level stuff |
+| data | financial research agents, OSINT scraping |
+| cs theory | algorithms, complexity, compilers |
+
+---
+
+### 📊 github stats
+
+![whiterose456's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterose456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterose456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+---
+
+### 🔗 connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujolaras-anto-575120279/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whiterose456)
+
+---
+
+<p align="center">
+  <i>"The cypherpunks write code."</i>
+</p>
