@@ -1,4 +1,4 @@
-#  👋
+# heyy  👋
 
 Compsci undergrad. I'm drawn to the parts of tech that actually matter — autonomous systems, defense & intelligence tooling, blockchain infrastructure, and systems programming.
 
