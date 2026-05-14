@@ -22,7 +22,7 @@ Compsci undergrad. I'm drawn to the parts of tech that actually matter — auton
 
 ---
 
-## Things I'm exploring or forking
+## Things I'm exploring or forking project 
 
 | Area | What I'm studying |
 |------|-------------------|
