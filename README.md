@@ -6,7 +6,7 @@
 ╚███╔███╔╝██║  ██║██║   ██║   ███████╗██║  ██║╚██████╔╝███████║███████╗
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
-real name is Pujo but its was bit hard to pronounce so just  jo  will do 
+real name is Pujolaras but its was bit strange to pronounce for english  so just  jo  will do i think  
 > compsci undergrad → smart contract dev → building on-chain stuff that actually matters
 
 ---
