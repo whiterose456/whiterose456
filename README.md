@@ -70,5 +70,5 @@ real name is Pujolaras but its was bit strange to pronounce for english  so just
 ---
 
 <p align="center">
-  <i>"The cypherpunks write code."</i>
+  <i>"The best way to predict the future is to invent it."</i>
 </p>
