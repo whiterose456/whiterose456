@@ -7,7 +7,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 real name is Pujolaras but its was bit strange to pronounce for english  so just  jo  will do i think  
-> compsci undergrad → smart contract dev → building on-chain stuff that actually matters
+> compsci undergrad → smart contract auditor . osint, ai enthusiast  → contributing for community and building impactful project 
 
 ---
 
@@ -26,7 +26,7 @@ real name is Pujolaras but its was bit strange to pronounce for english  so just
 ```
 🔨 building   → awesome-resource curated lists + OSINT tooling
 📖 studying   → Data Structures, Algorithms, Smart Contract security
-🔬 exploring  → DeFi protocol internals, Rust for EVM tooling
+🔬 exploring  → Osint ,defense tech rust programming , evm tooling and stuff 
 📍 based in   → Indonesia 🇮🇩
 ```
 
@@ -34,7 +34,7 @@ real name is Pujolaras but its was bit strange to pronounce for english  so just
 
 ### 🧠 about
 
-- Smart contract dev in the making — Solidity is my primary language
+- Smart contract,auditor  in the making —  do solidity and learning rust 
 - CS undergrad grinding algorithms, data structures, and systems programming in C
 - Interested in the intersection of **cryptography**, **DeFi**, and **on-chain infrastructure**
 - Building curated `awesome-*` lists for the community
