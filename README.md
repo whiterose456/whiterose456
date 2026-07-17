@@ -25,7 +25,7 @@ real name is Pujolaras but its was bit strange to pronounce for english  so just
 
 ```
 🔨 building   → awesome-resource curated lists + OSINT tooling
-📖 studying   → Data Structures, Algorithms, Smart Contract security
+📖 studying   →  Smart Contract security,diffusion ai 
 🔬 exploring  → Osint ,defense tech rust programming , evm tooling and stuff 
 📍 based in   → Indonesia 🇮🇩
 ```
