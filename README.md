@@ -35,7 +35,7 @@ real name is Pujolaras but its was bit strange to pronounce for english  so just
 ### 🧠 about
 
 - Smart contract,auditor  in the making —  do solidity and learning rust 
-- CS undergrad grinding algorithms, data structures, and systems programming in C
+- CS undergrad 
 - Interested in the intersection of **cryptography**, **DeFi**, and **on-chain infrastructure**
 - Building curated `awesome-*` lists for the community
 - OSINT tooling for real-time global news ([Osint-world-news-](https://github.com/whiterose456/Osint-world-news-))
