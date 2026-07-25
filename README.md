@@ -6,7 +6,7 @@
 ╚███╔███╔╝██║  ██║██║   ██║   ███████╗██║  ██║╚██████╔╝███████║███████╗
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
-acutal name is Pujolaras but its was bit strange to pronounce for english  so just  jo  will do i think  
+actual name is Pujolaras but its was bit strange to pronounce for english  so just  jo  will do i think  
 > compsci undergrad → smart contract auditor . osint, ai enthusiast  → contributing for community and building impactful project 
 
 ---
