@@ -36,7 +36,7 @@ actual name is Pujolaras but its was bit strange to pronounce for english  so ju
 
 - Smart contract,auditor  in the making —  do solidity and learning rust 
 - CS undergrad 
-- Interested in the intersection of **cryptography**, **DeFi**, and **on-chain infrastructure**
+- Interested in the intersection of **cryptography**, **DeFi**, and **on-chain infrastructure**  with  leveraging machine learning and application in ai egnineering 
 - Building curated `awesome-*` lists for the community
 - OSINT tooling for real-time global news ([Osint-world-news-](https://github.com/whiterose456/Osint-world-news-))
 - Reverse engineering hobby: [ImHex](https://github.com/whiterose456/ImHex) user
